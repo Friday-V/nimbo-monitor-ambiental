@@ -12,7 +12,7 @@ Público general, especialmente estudiantes y personas que trabajan en espacios 
 sección de Mich
 
 ## Fabricación
-Sección de Sofía
+Principalmente usando impresión 3D y una parte con corte laser (aun esta por definir que material se usara para el láser).
 
 ## Nivel
 PRO – HARD MODE.
