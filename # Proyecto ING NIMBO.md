@@ -11,7 +11,7 @@ Público general, especialmente estudiantes y personas que trabajan en espacios 
 ## Sensa / Responde
 Sensa: Qué variables ambientales detecta, qué sensores utiliza y cómo obtiene la información.
 
-Responde: Cómo procesa los datos y cómo reacciona el avatar mediante expresiones, mensajes y alertas.
+Responde: Comunica la calidad del ambiente de trabajo mediante expresiones, estados de ánimo, mensajes en pantalla y voz.
 
 ## Fabricación
 Principalmente usando impresión 3D y una parte con corte laser (aun esta por definir que material se usara para el láser).
