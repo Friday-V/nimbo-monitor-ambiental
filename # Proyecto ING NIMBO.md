@@ -9,7 +9,9 @@ Las condiciones ambientales de los espacios de trabajo pueden afectar la comodid
 Público general, especialmente estudiantes y personas que trabajan en espacios interiores.
 
 ## Sensa / Responde
-sección de Mich
+Sensa: Qué variables ambientales detecta, qué sensores utiliza y cómo obtiene la información.
+
+Responde: Cómo procesa los datos y cómo reacciona el avatar mediante expresiones, mensajes y alertas.
 
 ## Fabricación
 Principalmente usando impresión 3D y una parte con corte laser (aun esta por definir que material se usara para el láser).
